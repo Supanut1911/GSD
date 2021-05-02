@@ -19,9 +19,11 @@ At start: Too difficult article (read multiple times but you are not understand)
 ![alt text](images/readingWithFluidity1.png)
 
 Down your reading to the article that make you understand
+
 ![alt text](images/readingWithFluidity2.png)
 
 Move the step with the harder article 
+
 ![alt text](images/readingWithFluidity3.png)
 
 ---
@@ -74,7 +76,7 @@ if you read wrong level it doesn't matter, what you try to read doesn't matter w
     In order to be to <verb>: 
 
 ---    
-   Don't worry too much about word that you don't know, keep reading full paragraph end.
+    Don't worry too much about word that you don't know, keep reading full paragraph end.
 
 
     Doing samething over and over again and expect different result
